@@ -11,7 +11,7 @@ By creating a document that shows any attempt and helping people know what to do
 - Use Brownie to deploy
 
 >**protected from a penalty -1 documentation points** *does not mean* you are protected from lovingly administered teasing and the creation of an educational moment, thanks to Wingbird Tippi Fifestarr.
-![image](https://user-images.githubusercontent.com/62179036/162492395-144838d5-df09-44c2-a39d-7ae9d4dcad30.png)
+![image](https://user-images.githubusercontent.com/62179036/162496965-cd42dbc8-acf0-4737-8101-0173b4c1721a.png)
 
 ``` isPenaltyProtected(true) != isNotAnIssueNeedingWorkBySomeone(true) // != *(does not mean)*```
 
