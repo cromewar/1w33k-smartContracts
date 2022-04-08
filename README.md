@@ -1,16 +1,18 @@
 # Documentation Points
 > +1 documentation points for tippi
+
 > 0 documentation points for cromewar
+
 > +1 developer points for cromewar
 
 Someone who just spent hours *working on something for fun* for this Potentially Pointless Project may not want to put much time into writing documentation, which has only ~55% chance of improving your teammate's ability to access, understand, and react to your hard work.
 
 By creating a document that shows any attempt and helping people know what to do, you are **protected from a penalty -1 documentation points.**
+> below is a "0 documentation points" readme.md
+> # Instruction
+> - Use Brownie to deploy
 
-# Instruction
-- Use Brownie to deploy
-
->**protected from a penalty -1 documentation points** *does not mean* you are protected from lovingly administered teasing and the creation of an educational moment, thanks to Wingbird Tippi Fifestarr.
+> **protected from a penalty -1 documentation points** *does not mean* you are protected from lovingly administered teasing and the creation of an educational moment, thanks to Wingbird Tippi Fifestarr.
 ![image](https://user-images.githubusercontent.com/62179036/162496965-cd42dbc8-acf0-4737-8101-0173b4c1721a.png)
 
 ``` isPenaltyProtected(true) != isNotAnIssueNeedingWorkBySomeone(true) // != *(does not mean)*```
